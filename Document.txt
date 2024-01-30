@@ -1,0 +1,11 @@
+
+
+
+Shortcode  :: [team_members] 
+
+Activate the plugin through the WordPress admin panel.
+
+
+After activation, you can configure the post type name and slug on the "Team Members Settings" page in the admin menu. You can then add and manage team members through the custom post type "Team Members" in the WordPress dashboard. The archive page will display team members with pagination.
+
+You can use the [team_members] shortcode in any post or page, and it will display a list of team members with the specified parameters.
